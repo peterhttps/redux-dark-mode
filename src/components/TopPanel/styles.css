@@ -1,0 +1,72 @@
+.base[target=Light] {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #c698fd;
+    transition: 1s;
+}
+
+.base[target=Dark] {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #2b2b2b;
+    transition: 1s;
+}
+
+.text[target=Light] {
+    font-family: 'Roboto';
+    display: block;
+    color: #2b2b2b;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    float: left;
+    transition: 1s;
+}
+
+.text[target=Dark] {
+    display: block;
+    font-family: 'Roboto';
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    float: left;
+    transition: 1s;
+}
+
+.switch input {
+    position: absolute;
+    opacity: 0;
+  }
+
+.switch {
+    display: block;
+    font-size: 20px;
+    height: 1em;
+    width: 2em;
+    background: #BDB9A6;
+    border-radius: 1em;
+    float: right;
+    margin: 1em;
+    margin-right: 1em;
+    
+}
+  
+.switch div {
+    height: 1em;
+    width: 1em;
+    border-radius: 1em;
+    background: #FFF;
+    box-shadow: 0 0.1em 0.3em rgba(0,0,0,0.3);
+   
+}
+  
+.switch input:checked + div {
+    -webkit-transform: translate3d(100%, 0, 0);
+       -moz-transform: translate3d(100%, 0, 0);
+            transform: translate3d(100%, 0, 0);
+}
