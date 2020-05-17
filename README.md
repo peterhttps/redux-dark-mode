@@ -5,11 +5,11 @@
   Made with Redux, Hooks and ♥
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/repo-size/peterhttps/redux-dark-mode"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/peterhttps/redux-dark-mode"/>
-   <img alt="GitHub top language" src="https://img.shields.io/github/stars/peterhttps/redux-dark-mode"/>
-   <img alt="GitHub top language" src="https://img.shields.io/github/issues/peterhttps/redux-dark-mode"/>
-   <img alt="GitHub top language" src=" https://img.shields.io/github/license/peterhttps/redux-dark-mode"/>
+  <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/peterhttps/redux-dark-mode"/>
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/peterhttps/redux-dark-mode"/>
+   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/peterhttps/redux-dark-mode"/>
+   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/peterhttps/redux-dark-mode"/>
+   <img alt="GitHub License" src=" https://img.shields.io/github/license/peterhttps/redux-dark-mode"/>
    </p>
 
 <p align="center">
