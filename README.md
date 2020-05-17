@@ -9,7 +9,7 @@
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/peterhttps/redux-dark-mode"/>
    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/peterhttps/redux-dark-mode"/>
    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/peterhttps/redux-dark-mode"/>
-   <img alt="GitHub License" src=" https://img.shields.io/github/license/peterhttps/redux-dark-mode"/>
+   <a href="https://github.com/peterhttps/redux-dark-mode/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/peterhttps/redux-dark-mode"></a>
    </p>
 
 <p align="center">
