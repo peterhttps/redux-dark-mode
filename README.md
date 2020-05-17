@@ -22,7 +22,7 @@
 ![](https://i.imgur.com/WHtJNb0.gif)
 ## :rocket: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed to train Redux and Hooks with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
 -  [Redux](https://redux.js.org/)
